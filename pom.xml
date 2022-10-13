@@ -249,10 +249,10 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:https://github.com/eficensdevops/payment-service.git</connection>
-    <developerConnection>scm:git:https://github.com/eficensdevops/payment-service.git</developerConnection>
+    <connection>scm:git:https://github.com/malqaed14/payment-service-practice.git</connection>
+    <developerConnection>scm:git:https://github.com/malqaed14/payment-service-practice.git</developerConnection>
     <tag>HEAD</tag>
-    <url>scm:git:https://github.com/eficensdevops/payment-service.git</url>
+    <url>scm:git:https://github.com/malqaed14/payment-service-practice.git</url>
   </scm>
 
   <prerequisites>
